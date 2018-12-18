@@ -1,0 +1,14 @@
+mkdir Story
+cd Story
+touch chapter1.txt
+start chapter1.txt
+//insert some txt in chapter1.txt and save the file
+git init
+ls -a
+git status
+git add chapter1.txt
+git status
+git commit -m "Initial Commit"
+git log
+touch git_command.txt
+touch chapter2.txt
