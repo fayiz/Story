@@ -12,3 +12,7 @@ git commit -m "Initial Commit"
 git log
 touch git_command.txt
 touch chapter2.txt
+git add .
+git status
+git commit -m "Added 2 more files"
+git log
